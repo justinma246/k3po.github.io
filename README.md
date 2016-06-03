@@ -22,7 +22,7 @@ $ bundle show jekyll
 $ jekyll --version
 jekyll 2.4.0
 ```
-Note: requires XCode command line tools, will fail at command line with instructions if necessary.
+Note: requires XCode command line tool, will fail at command line with instructions if necessary.
 
 Note: If you get an error like the following when you run Jekyll, then run ```$ gem uninstall jekyll```, which will prompt you to choose a version to uninstall. 
 
